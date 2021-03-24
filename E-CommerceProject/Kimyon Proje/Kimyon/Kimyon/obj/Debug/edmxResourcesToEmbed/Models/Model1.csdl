@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="eticaretModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="tbl_admin">
+    <Key>
+      <PropertyRef Name="admin_id" />
+    </Key>
+    <Property Name="admin_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="admin_username" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="admin_password" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="tbl_category" Relationship="Self.FK__tbl_categ__categ__145C0A3F" FromRole="tbl_admin" ToRole="tbl_category" />
+  </EntityType>
+  <EntityType Name="tbl_cart">
+    <Key>
+      <PropertyRef Name="cart_id" />
+    </Key>
+    <Property Name="cart_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="cart_fk_user" Type="Int32" />
+    <Property Name="cart_fk_product" Type="Int32" />
+    <NavigationProperty Name="tbl_user" Relationship="Self.FK__tbl_cart__cart_f__2A4B4B5E" FromRole="tbl_cart" ToRole="tbl_user" />
+    <NavigationProperty Name="tbl_product" Relationship="Self.FK__tbl_cart__cart_f__2B3F6F97" FromRole="tbl_cart" ToRole="tbl_product" />
+  </EntityType>
+  <EntityType Name="tbl_category">
+    <Key>
+      <PropertyRef Name="category_id" />
+    </Key>
+    <Property Name="category_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="category_name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="category_image" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="category_fk_admin" Type="Int32" />
+    <NavigationProperty Name="tbl_admin" Relationship="Self.FK__tbl_categ__categ__145C0A3F" FromRole="tbl_category" ToRole="tbl_admin" />
+    <NavigationProperty Name="tbl_product" Relationship="Self.FK__tbl_produ__produ__1BFD2C07" FromRole="tbl_category" ToRole="tbl_product" />
+    <Property Name="category_status" Type="Int32" />
+  </EntityType>
+  <EntityType Name="tbl_product">
+    <Key>
+      <PropertyRef Name="product_id" />
+    </Key>
+    <Property Name="product_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="product_name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="product_image" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="product_description" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="product_price" Type="Int32" />
+    <Property Name="product_fk_category" Type="Int32" />
+    <Property Name="product_fk_user" Type="Int32" />
+    <NavigationProperty Name="tbl_cart" Relationship="Self.FK__tbl_cart__cart_f__2B3F6F97" FromRole="tbl_product" ToRole="tbl_cart" />
+    <NavigationProperty Name="tbl_category" Relationship="Self.FK__tbl_produ__produ__1BFD2C07" FromRole="tbl_product" ToRole="tbl_category" />
+    <NavigationProperty Name="tbl_user" Relationship="Self.FK__tbl_produ__produ__1CF15040" FromRole="tbl_product" ToRole="tbl_user" />
+  </EntityType>
+  <EntityType Name="tbl_user">
+    <Key>
+      <PropertyRef Name="userid" />
+    </Key>
+    <Property Name="userid" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="u_name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="u_email" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="u_password" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="u_image" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="u_contact" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="tbl_cart" Relationship="Self.FK__tbl_cart__cart_f__2A4B4B5E" FromRole="tbl_user" ToRole="tbl_cart" />
+    <NavigationProperty Name="tbl_product" Relationship="Self.FK__tbl_produ__produ__1CF15040" FromRole="tbl_user" ToRole="tbl_product" />
+  </EntityType>
+  <Association Name="FK__tbl_categ__categ__145C0A3F">
+    <End Role="tbl_admin" Type="Self.tbl_admin" Multiplicity="0..1" />
+    <End Role="tbl_category" Type="Self.tbl_category" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tbl_admin">
+        <PropertyRef Name="admin_id" />
+      </Principal>
+      <Dependent Role="tbl_category">
+        <PropertyRef Name="category_fk_admin" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__tbl_cart__cart_f__2A4B4B5E">
+    <End Role="tbl_user" Type="Self.tbl_user" Multiplicity="0..1" />
+    <End Role="tbl_cart" Type="Self.tbl_cart" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tbl_user">
+        <PropertyRef Name="userid" />
+      </Principal>
+      <Dependent Role="tbl_cart">
+        <PropertyRef Name="cart_fk_user" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__tbl_cart__cart_f__2B3F6F97">
+    <End Role="tbl_product" Type="Self.tbl_product" Multiplicity="0..1" />
+    <End Role="tbl_cart" Type="Self.tbl_cart" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tbl_product">
+        <PropertyRef Name="product_id" />
+      </Principal>
+      <Dependent Role="tbl_cart">
+        <PropertyRef Name="cart_fk_product" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__tbl_produ__produ__1BFD2C07">
+    <End Role="tbl_category" Type="Self.tbl_category" Multiplicity="0..1" />
+    <End Role="tbl_product" Type="Self.tbl_product" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tbl_category">
+        <PropertyRef Name="category_id" />
+      </Principal>
+      <Dependent Role="tbl_product">
+        <PropertyRef Name="product_fk_category" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__tbl_produ__produ__1CF15040">
+    <End Role="tbl_user" Type="Self.tbl_user" Multiplicity="0..1" />
+    <End Role="tbl_product" Type="Self.tbl_product" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tbl_user">
+        <PropertyRef Name="userid" />
+      </Principal>
+      <Dependent Role="tbl_product">
+        <PropertyRef Name="product_fk_user" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="eticaretEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="tbl_admin" EntityType="Self.tbl_admin" />
+    <EntitySet Name="tbl_cart" EntityType="Self.tbl_cart" />
+    <EntitySet Name="tbl_category" EntityType="Self.tbl_category" />
+    <EntitySet Name="tbl_product" EntityType="Self.tbl_product" />
+    <EntitySet Name="tbl_user" EntityType="Self.tbl_user" />
+    <AssociationSet Name="FK__tbl_categ__categ__145C0A3F" Association="Self.FK__tbl_categ__categ__145C0A3F">
+      <End Role="tbl_admin" EntitySet="tbl_admin" />
+      <End Role="tbl_category" EntitySet="tbl_category" />
+    </AssociationSet>
+    <AssociationSet Name="FK__tbl_cart__cart_f__2A4B4B5E" Association="Self.FK__tbl_cart__cart_f__2A4B4B5E">
+      <End Role="tbl_user" EntitySet="tbl_user" />
+      <End Role="tbl_cart" EntitySet="tbl_cart" />
+    </AssociationSet>
+    <AssociationSet Name="FK__tbl_cart__cart_f__2B3F6F97" Association="Self.FK__tbl_cart__cart_f__2B3F6F97">
+      <End Role="tbl_product" EntitySet="tbl_product" />
+      <End Role="tbl_cart" EntitySet="tbl_cart" />
+    </AssociationSet>
+    <AssociationSet Name="FK__tbl_produ__produ__1BFD2C07" Association="Self.FK__tbl_produ__produ__1BFD2C07">
+      <End Role="tbl_category" EntitySet="tbl_category" />
+      <End Role="tbl_product" EntitySet="tbl_product" />
+    </AssociationSet>
+    <AssociationSet Name="FK__tbl_produ__produ__1CF15040" Association="Self.FK__tbl_produ__produ__1CF15040">
+      <End Role="tbl_user" EntitySet="tbl_user" />
+      <End Role="tbl_product" EntitySet="tbl_product" />
+    </AssociationSet>
+    <EntitySet Name="sysdiagrams" EntityType="eticaretModel.sysdiagram" />
+  </EntityContainer>
+  <EntityType Name="sysdiagram">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" Nullable="false" MaxLength="128" FixedLength="false" Unicode="true" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+</Schema>

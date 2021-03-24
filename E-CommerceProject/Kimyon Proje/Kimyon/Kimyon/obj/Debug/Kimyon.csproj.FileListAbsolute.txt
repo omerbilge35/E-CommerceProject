@@ -1,0 +1,188 @@
+D:\Kimyon Proje\Kimyon\Kimyon\bin\Kimyon.dll.config
+D:\Kimyon Proje\Kimyon\Kimyon\bin\Kimyon.dll
+D:\Kimyon Proje\Kimyon\Kimyon\bin\Kimyon.pdb
+D:\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\csc.exe
+D:\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\csc.exe.config
+D:\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\csc.rsp
+D:\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\csi.exe
+D:\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\csi.exe.config
+D:\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\csi.rsp
+D:\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\System.AppContext.dll
+D:\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\System.Collections.Immutable.dll
+D:\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\System.Console.dll
+D:\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\System.Globalization.Calendars.dll
+D:\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\System.IO.Compression.dll
+D:\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\System.IO.FileSystem.dll
+D:\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\System.Net.Http.dll
+D:\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\System.Net.Sockets.dll
+D:\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\System.Reflection.Metadata.dll
+D:\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\System.ValueTuple.dll
+D:\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\System.Xml.XPath.dll
+D:\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\vbc.exe
+D:\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\vbc.exe.config
+D:\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\vbc.rsp
+D:\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\VBCSCompiler.exe
+D:\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\VBCSCompiler.exe.config
+D:\Kimyon Proje\Kimyon\Kimyon\bin\Antlr3.Runtime.dll
+D:\Kimyon Proje\Kimyon\Kimyon\bin\EntityFramework.dll
+D:\Kimyon Proje\Kimyon\Kimyon\bin\EntityFramework.SqlServer.dll
+D:\Kimyon Proje\Kimyon\Kimyon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Kimyon Proje\Kimyon\Kimyon\bin\Microsoft.Web.Infrastructure.dll
+D:\Kimyon Proje\Kimyon\Kimyon\bin\Newtonsoft.Json.dll
+D:\Kimyon Proje\Kimyon\Kimyon\bin\System.Web.Helpers.dll
+D:\Kimyon Proje\Kimyon\Kimyon\bin\System.Web.Mvc.dll
+D:\Kimyon Proje\Kimyon\Kimyon\bin\System.Web.Optimization.dll
+D:\Kimyon Proje\Kimyon\Kimyon\bin\System.Web.Razor.dll
+D:\Kimyon Proje\Kimyon\Kimyon\bin\System.Web.WebPages.Deployment.dll
+D:\Kimyon Proje\Kimyon\Kimyon\bin\System.Web.WebPages.dll
+D:\Kimyon Proje\Kimyon\Kimyon\bin\System.Web.WebPages.Razor.dll
+D:\Kimyon Proje\Kimyon\Kimyon\bin\WebGrease.dll
+D:\Kimyon Proje\Kimyon\Kimyon\bin\EntityFramework.xml
+D:\Kimyon Proje\Kimyon\Kimyon\bin\EntityFramework.SqlServer.xml
+D:\Kimyon Proje\Kimyon\Kimyon\bin\System.Web.Helpers.xml
+D:\Kimyon Proje\Kimyon\Kimyon\bin\System.Web.Mvc.xml
+D:\Kimyon Proje\Kimyon\Kimyon\bin\System.Web.Optimization.xml
+D:\Kimyon Proje\Kimyon\Kimyon\bin\System.Web.Razor.xml
+D:\Kimyon Proje\Kimyon\Kimyon\bin\System.Web.WebPages.xml
+D:\Kimyon Proje\Kimyon\Kimyon\bin\System.Web.WebPages.Deployment.xml
+D:\Kimyon Proje\Kimyon\Kimyon\bin\System.Web.WebPages.Razor.xml
+D:\Kimyon Proje\Kimyon\Kimyon\bin\Newtonsoft.Json.xml
+D:\Kimyon Proje\Kimyon\Kimyon\bin\Antlr3.Runtime.pdb
+D:\Kimyon Proje\Kimyon\Kimyon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Kimyon Proje\Kimyon\Kimyon\bin\tr\System.Web.Helpers.resources.dll
+D:\Kimyon Proje\Kimyon\Kimyon\bin\tr\System.Web.Mvc.resources.dll
+D:\Kimyon Proje\Kimyon\Kimyon\bin\tr\System.Web.Optimization.resources.dll
+D:\Kimyon Proje\Kimyon\Kimyon\bin\tr\System.Web.Razor.resources.dll
+D:\Kimyon Proje\Kimyon\Kimyon\bin\tr\System.Web.WebPages.resources.dll
+D:\Kimyon Proje\Kimyon\Kimyon\bin\tr\System.Web.WebPages.Deployment.resources.dll
+D:\Kimyon Proje\Kimyon\Kimyon\bin\tr\System.Web.WebPages.Razor.resources.dll
+D:\Kimyon Proje\Kimyon\Kimyon\obj\Debug\Kimyon.csprojAssemblyReference.cache
+D:\Kimyon Proje\Kimyon\Kimyon\obj\Debug\Kimyon.csproj.CoreCompileInputs.cache
+D:\Kimyon Proje\Kimyon\Kimyon\obj\Debug\Kimyon.csproj.CopyComplete
+D:\Kimyon Proje\Kimyon\Kimyon\obj\Debug\Kimyon.dll
+D:\Kimyon Proje\Kimyon\Kimyon\obj\Debug\Kimyon.pdb
+D:\Kimyon Proje\Kimyon\Kimyon\bin\PagedList.dll
+D:\Kimyon Proje\Kimyon\Kimyon\bin\PagedList.Mvc.dll
+D:\Kimyon Proje\Kimyon\Kimyon\bin\PagedList.xml
+D:\Kimyon Proje\Kimyon\Kimyon\bin\PagedList.Mvc.xml
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\Kimyon.dll.config
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\Kimyon.dll
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\Kimyon.pdb
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\csc.exe
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\csc.exe.config
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\csc.rsp
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\csi.exe
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\csi.exe.config
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\csi.rsp
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\System.AppContext.dll
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\System.Console.dll
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\System.IO.Compression.dll
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\System.Net.Http.dll
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\System.ValueTuple.dll
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\vbc.exe
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\vbc.exe.config
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\vbc.rsp
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\VBCSCompiler.exe
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\Antlr3.Runtime.dll
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\EntityFramework.dll
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\EntityFramework.SqlServer.dll
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\Newtonsoft.Json.dll
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\PagedList.dll
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\PagedList.Mvc.dll
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\System.Web.Helpers.dll
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\System.Web.Mvc.dll
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\System.Web.Optimization.dll
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\System.Web.Razor.dll
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\System.Web.WebPages.dll
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\System.Web.WebPages.Razor.dll
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\WebGrease.dll
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\EntityFramework.xml
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\EntityFramework.SqlServer.xml
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\PagedList.xml
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\PagedList.Mvc.xml
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\System.Web.Helpers.xml
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\System.Web.Mvc.xml
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\System.Web.Optimization.xml
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\System.Web.Razor.xml
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\System.Web.WebPages.xml
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\System.Web.WebPages.Razor.xml
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\Newtonsoft.Json.xml
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\Antlr3.Runtime.pdb
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\tr\System.Web.Razor.resources.dll
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\obj\Debug\Kimyon.csprojAssemblyReference.cache
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\obj\Debug\Kimyon.csproj.CoreCompileInputs.cache
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\obj\Debug\Kimyon.csproj.CopyComplete
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\obj\Debug\Kimyon.dll
+C:\Users\Omer Furkan\Desktop\Kimyon_Proje\Kimyon Proje\Kimyon\Kimyon\obj\Debug\Kimyon.pdb
